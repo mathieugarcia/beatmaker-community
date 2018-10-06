@@ -1,3 +1,5 @@
+# BeatMaker 3 - Follow the path
+
 > A Primer for users of all skill levels
 > written by tk32 _(with some help from the forums, hopefully)_
 
