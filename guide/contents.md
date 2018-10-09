@@ -5,10 +5,10 @@
 
 ## Current status
 
-- [x] _1 Oct - @mathieugarcia creates community repo to host Wiki_
-- [x] _1 Oct - @tk32-git publishes outline of guide_
-- [x] _1 Oct - @tk32-git starts writing the guide (offline drafts)_
-- [ ] _Oct-Nov - @tk32-git begins publishing articles and chapters_
+- [x] _1 Oct - Mathieu Garcia creates community repo to host Wiki_
+- [x] _1 Oct - tk32 publishes outline of guide_
+- [x] _1 Oct - tk32 starts writing the guide (offline drafts)_
+- [ ] _Oct-Nov - tk32 begins publishing articles and chapters_
 
 # Contents 
 
@@ -85,5 +85,5 @@
 * Exporting stems for desktop mastering
 * Good housekeeping and library management
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzExMDg5NzhdfQ==
+eyJoaXN0b3J5IjpbMTI4MTM2ODEzOV19
 -->
