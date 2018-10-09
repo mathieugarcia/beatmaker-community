@@ -8,7 +8,7 @@
 - [x] _1 Oct - @mathieugarcia creates community repo to host Wiki_
 - [x] _1 Oct - @tk32-git publishes outline of guide_
 - [x] _1 Oct - @tk32-git starts writing the guide (offline drafts)_
-- [x] _Oct-Nov - @tk32-git begins publishing articles and chapters_
+- [ ] _Oct-Nov - @tk32-git begins publishing articles and chapters_
 
 # Contents 
 
@@ -85,5 +85,5 @@
 * Exporting stems for desktop mastering
 * Good housekeeping and library management
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxNTQyMzc0XX0=
+eyJoaXN0b3J5IjpbLTE2MzExMDg5NzhdfQ==
 -->
