@@ -1,7 +1,7 @@
 # BeatMaker 3 - Follow the path
 
 > A Primer for users of all skill levels
-> written by tk32 _(with help from the forums)_
+> written by **tk32** _(with help from the forums)_
 
 ## Current status
 
@@ -85,5 +85,5 @@
 * Exporting stems for desktop mastering
 * Good housekeeping and library management
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5NTM3NjA5LDEyODEzNjgxMzldfQ==
+eyJoaXN0b3J5IjpbMTQ3MDg1NDQ3MywxMjgxMzY4MTM5XX0=
 -->
